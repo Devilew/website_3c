@@ -76,7 +76,7 @@
         </tr>
         <tr>
             <th>1741720155</th>
-            <th><a href="#">Muhammad Nizar Firmansyah</a></th>
+            <th><a href="https://nizar.jticrew.tech/">Muhammad Nizar Firmansyah</a></th>
         </tr>
         <tr>
             <th>1741720164</th>
